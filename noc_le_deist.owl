@@ -31,7 +31,7 @@
             <rdfs:range rdf:resource="http://purl.org/netofcomp/noc_le_deist#CognitiveCompetence"/>
             <rdfs:range rdf:resource="http://purl.org/netofcomp/noc_le_deist#SocialCompetence"/>
             <rdfs:range rdf:resource="http://purl.org/netofcomp/noc_le_deist#FunctionalCompetence"/>
-            <rdfs:range rdf:resource="http://purl.org/netofcomp/noc_le_deist#MetaCompetence"/>
+            <rdfs:range rdf:resource="http://purl.org/netofcomp/noc_le_deist#MetCompetence"/>
     </owl:ObjectProperty>
     
     
@@ -78,8 +78,8 @@
     
         <!-- http://purl.org//netofcomp/noc_le_deist#MetaCompetence -->
 
-    <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#MetaCompetence">
-        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#MetaCompetence#Le_Deist_Comp"/>
+    <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#MetCompetence">
+        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#MetCompetence#Le_Deist_Comp"/>
     </owl:Class>
 
 
