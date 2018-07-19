@@ -52,7 +52,7 @@
     <!-- http://purl.org//netofcomp/noc_le_deist#CognitiveCompetence -->
 
     <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#CognitiveCompetence">
-        <rdfs:subClassOf rdf:resource="http://purl.org//netofcomp/noc_le_deist#CognitiveCompetence#Le_Deist_Comp"/>
+        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#CognitiveCompetence#Le_Deist_Comp"/>
     </owl:Class>
 
 
@@ -61,7 +61,7 @@
     <!-- http://purl.org//netofcomp/noc_le_deist#SocialCompetence -->
 
     <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#SocialCompetence">
-        <rdfs:subClassOf rdf:resource="http://purl.org//netofcomp/noc_le_deist#SocialCompetence#Le_Deist_Comp"/>
+        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#SocialCompetence#Le_Deist_Comp"/>
     </owl:Class>
 
 
@@ -70,7 +70,7 @@
     <!-- http://purl.org//netofcomp/noc_le_deist#FunctionalCompetence -->
 
     <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#FunctionalCompetence">
-        <rdfs:subClassOf rdf:resource="http://purl.org//netofcomp/noc_le_deist#FunctionalCompetence#Le_Deist_Comp"/>
+        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#FunctionalCompetence#Le_Deist_Comp"/>
     </owl:Class>
     
     
@@ -79,7 +79,7 @@
         <!-- http://purl.org//netofcomp/noc_le_deist#MetaCompetence -->
 
     <owl:Class rdf:about="http://purl.org/netofcomp/noc_le_deist#MetaCompetence">
-        <rdfs:subClassOf rdf:resource="http://purl.org//netofcomp/noc_le_deist#MetaCompetence#Le_Deist_Comp"/>
+        <rdfs:subClassOf rdf:resource="http://purl.org/netofcomp/noc_le_deist#MetaCompetence#Le_Deist_Comp"/>
     </owl:Class>
 
 
